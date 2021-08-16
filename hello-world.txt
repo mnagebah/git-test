@@ -16,3 +16,20 @@ For example,
     git add . is read as git | add | ., where the period represents everything in the current directory;
     git commit -m "message" is read as git | commit -m | "message"; and
     git status is read as git | status | (no destination).
+
+
+    What are some of your favorite books, links, resources, for someone interested in getting started in front-end web development?
+
+       A Book Apart series, especially the books on HTML5 (Jeremy Keith) and CSS3 (Dan Cederholm). Great primers and reference material.
+       A List Apart is a bi-weekly web journal that I’d consider required reading for any web developer, newbie or experienced.
+       Smashing Magazine is a pretty classic web resource.
+       Hacker News is a consistent source of news articles and discussion.
+
+   For any developers who also design, I regularly read:
+
+       Beautiful Pixels for design trends in mobile and web apps.
+       Sidebar is a new link blog where I discover a lot of design related gems.
+
+   Finally for the audio inclined:
+
+       Shop Talk is a web design and development podcast hosted by CSS whiz Chris Coyier.
