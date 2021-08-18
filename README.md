@@ -40,3 +40,11 @@ null/undefined are converted to numbers: null becomes 0, while undefined becomes
 alert( null > 0 );  // (1) false
 alert( null == 0 ); // (2) false
 alert( null >= 0 ); // (3) true
+
+------------------------------------------------------------------------------
+regular expressions
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD
+
+----------------------------------------
+dev tools
+https://developer.chrome.com/docs/devtools/
